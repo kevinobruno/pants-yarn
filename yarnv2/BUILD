@@ -1,6 +1,8 @@
 files(
     name="package_config",
     sources=[
+        ".yarnrc.yml",
+        ".yarn/releases/*.cjs",
         "tsconfig.json",
     ],
 )

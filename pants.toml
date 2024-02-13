@@ -1,5 +1,8 @@
 [GLOBAL]
 pants_version = "2.19.0"
+pants_ignore = [
+    "!.yarn",
+]
 backend_packages = [
     "pants.backend.experimental.javascript",
 ]
