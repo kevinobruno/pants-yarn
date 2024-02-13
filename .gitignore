@@ -145,3 +145,8 @@ dist
 
 # Typescript
 **/src/*.js
+
+# pants
+dist
+.pids
+.pants.*
