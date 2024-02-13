@@ -1,0 +1,12 @@
+{
+  "name": "yarnv3",
+  "version": "1.0.0",
+  "description": "pants yarnv3 use case",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3"
+  },
+  "packageManager": "yarn@3.6.4"
+}
